@@ -1,0 +1,14 @@
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 40px;
+}
+
+.counter_handler {
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
+  height: 30px;
+}
